@@ -1,0 +1,6 @@
+https://api.openbrewerydb.org/breweries?by_state=california
+
+needs pagination 
+https://api.openbrewerydb.org/breweries?by_state=california&page=20
+keep going until empty result
+skip showing without long lat
